@@ -1,0 +1,36 @@
+.dashboard-container {
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+
+.dashboard-container h1 {
+  margin-bottom: 20px;
+  /* Adjust spacing between heading and input */
+}
+
+.dashboard-container div {
+  margin-top: 20px;
+  /* Adjust spacing between heading and input */
+}
+
+.btn-send {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 10px 25px;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-left: 0rem;
+  margin-top: 2rem;
+}
+
+.response-data{
+  -webkit-user-modify: read-write-plaintext-only;
+  display: flex;
+text-align: center;}

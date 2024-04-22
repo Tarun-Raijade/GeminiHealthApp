@@ -1,0 +1,42 @@
+.header {
+  background-color: #000637;
+  color: white;
+  padding: 10px;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header-name {
+  justify-content: start;
+}
+
+.header-logo {
+  width: 5rem;
+  margin-left: 1rem;
+}
+
+.header-options {
+  justify-content: end;
+}
+
+.contact {
+  margin-right: 5rem;
+  color: white;
+  text-decoration: none;
+}
+
+.about {
+  margin-right: 5rem;
+  color: white;
+  text-decoration: none;
+}
+
+.login {
+  margin-right: 5rem;
+  color: white;
+  text-decoration: none;
+}
